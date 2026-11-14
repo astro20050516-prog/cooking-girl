@@ -1,0 +1,19 @@
+declare module 'lucide-react' {
+  export const ChefHat: any;
+  export const Shuffle: any;
+  export const Plus: any;
+  export const UserCircle2: any;
+  export const Search: any;
+  export const Heart: any;
+  export const SlidersHorizontal: any;
+  export const Clock: any;
+  export const Utensils: any;
+  export const Edit3: any;
+  export const Trash2: any;
+  export const ArrowLeft: any;
+  export const Image: any;
+  export const Camera: any;
+  export const MessageSquare: any;
+  export const ThumbsUp: any;
+  export const RotateCcw: any;
+}
